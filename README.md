@@ -24,5 +24,16 @@ https://github.com/nafiomiah/ECE444-F2022-Lab1
 
 ![image](https://user-images.githubusercontent.com/63027842/190686714-191d54f4-a147-4e21-afd1-fc44708cad39.png)
 
+Activity 5:
+
+![image](https://user-images.githubusercontent.com/63027842/190833419-d40c65c2-ad96-4ce8-a83d-795699fb00cc.png)
+
+![image](https://user-images.githubusercontent.com/63027842/190833428-96e0b6e2-d6e8-47ee-bb1f-4e595d7bd662.png)
+
+![image](https://user-images.githubusercontent.com/63027842/190833436-5217f68f-6a81-4da7-9c5c-23b93c5c51d5.png)
+
+![image](https://user-images.githubusercontent.com/63027842/190833447-4f3d1020-5bec-4d2e-9542-cbafa4256236.png)
+
+
 
 
