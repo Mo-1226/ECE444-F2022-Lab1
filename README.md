@@ -38,6 +38,16 @@ Acitivity 6:
 
 https://github.com/Mo-1226/ECE444-F2022-EP
 
+Activity 7:
+
+![image](https://user-images.githubusercontent.com/63027842/191135042-48446ad9-6c47-44bf-8c71-a9f0975b3dff.png)
+
+![image](https://user-images.githubusercontent.com/63027842/191135057-b07bb217-3557-4b2d-9c79-9d06cc8082e1.png)
+
+
+
+
+
 
 
 
