@@ -7,4 +7,6 @@ print("Nafio is my BEST FRIEND!")
 
 print("No, ALEX is my best friend!")
 
+print("No, ALEX is my best friend!!")
+
 
